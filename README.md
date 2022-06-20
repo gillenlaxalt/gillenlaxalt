@@ -23,6 +23,8 @@ const gillen = {
 }
 ```
 
+### [📃 Resume 📃](https://github.com/gillenlaxalt/gillenlaxalt/blob/main/assets/CV_Gillen_Laxalt.pdf)
+
 <center>
 
 ### Project I worked on 🚀
@@ -31,7 +33,7 @@ const gillen = {
 
 [Demo at 41" (french)](https://youtu.be/_D3r1iYTsS4?t=2471)
 
-### Stats 🏁
+### Stats 📈
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gillenlaxalt&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
