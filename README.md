@@ -24,7 +24,7 @@ const gillen = {
 
 ### Project I worked on 🚀
 
-O'Hisse
+![Cover](https://github.com/gillenlaxalt/gillenlaxalt/blob/master/img/logo-complet-bicolor.png)
 
 [Demo at 41" (french)](https://youtu.be/_D3r1iYTsS4?t=2471)
 
