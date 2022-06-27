@@ -11,6 +11,8 @@ _Junior Full Stack Web Developper, front enthousiast since being formed in [O'Cl
 
 ## Get to know me 📖
 
+### [📃 Resume 📃](https://github.com/gillenlaxalt/gillenlaxalt/blob/main/assets/CV_Gillen_Laxalt.pdf)
+
 ```javascript
 const gillen = {
   country: "France",
@@ -23,8 +25,6 @@ const gillen = {
   languages: [french, english, basque, spanish],
 }
 ```
-
-### [📃 Resume 📃](https://github.com/gillenlaxalt/gillenlaxalt/blob/main/assets/CV_Gillen_Laxalt.pdf)
 
 <center>
 
