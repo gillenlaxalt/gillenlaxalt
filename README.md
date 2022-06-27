@@ -17,7 +17,7 @@ const gillen = {
   code: {
     learned: [HTML, CSS, Javascript, Typescript, PHP, SQL],
     tools: [React, Redux, WP],
-    toLearn: [Angular, Node, Symfony],
+    toLearn: [Angular, Three.js, Node, Symfony],
   },
   passions: [guitar, newTechnologies, videoGames, tvShows, mountain, ride],
   languages: [french, english, basque, spanish],
