@@ -16,6 +16,7 @@ _Junior Full Stack Web Developper, front enthousiast since being formed in [O'Cl
 ```javascript
 const gillen = {
   country: "France",
+  city: "Bayonne",
   code: {
     learned: [HTML, CSS, Javascript, Typescript, PHP, SQL],
     tools: [React, Redux, WP],
@@ -23,6 +24,7 @@ const gillen = {
   },
   passions: [guitar, newTechnologies, videoGames, tvShows, mountain, ride],
   languages: [french, english, basque, spanish],
+  currentWorkplace: "Groupe Voltaire",
 }
 ```
 
