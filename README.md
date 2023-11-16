@@ -19,7 +19,7 @@ const gillen = {
   city: "Bayonne",
   code: {
     learned: [HTML, CSS, Javascript, Typescript, PHP, SQL],
-    tools: [React, Redux, WP],
+    tools: [React, Redux, NextJs, WP, Prestashop],
     toLearn: [Angular, Three.js, Node, Symfony],
   },
   passions: [guitar, newTechnologies, videoGames, tvShows, mountain, ride],
