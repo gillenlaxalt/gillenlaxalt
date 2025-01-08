@@ -24,7 +24,7 @@ const gillen = {
   },
   passions: [guitar, newTechnologies, videoGames, tvShows, mountain, ride],
   languages: [french, english, basque, spanish],
-  currentWorkplace: "PIC Digital",
+  currentWorkplace: "Geek Tonic",
 }
 ```
 
